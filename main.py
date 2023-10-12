@@ -1,7 +1,6 @@
 import tkinter
 from tkinter import *
-
-
+#噩
 screen = tkinter.Tk()
 screen.title("BMI Calculator")
 screen.minsize(width=300,height=300)
